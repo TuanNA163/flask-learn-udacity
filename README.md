@@ -1,7 +1,13 @@
 # Overview
-# flask-learn-udacity
-This a repo to deploy and manage when learning cloud devops udacity
-<TODO: complete this with an overview of your project>
+An overview of the project
+In this project, We will build a Github repository from scatch and create a scaffolding in performing
+both Continuous Integration and Continuous Delevery.
+ 1. Using Github Actions along with a Makefile, requirements.txt and application code to perform an initial lint, test, and install cycle.
+ 2. Integrating this project with Azure Pipelines to enable Continuous Delivery to Azure App Service.
+ 3. Using Azure Cloud shell in this project
+Architectural Diagram
+![Screen Shot 2024-09-29 at 16 48 16](https://github.com/user-attachments/assets/3edc738e-d80f-46f0-897f-ad68bfddc5af)
+
 
 ## Project Plan
 <TODO: Project Plan
@@ -10,6 +16,7 @@ This a repo to deploy and manage when learning cloud devops udacity
 Link: https://trello.com/b/1zEYv7Jb/agile-sprint-board-for-project-2
 
 * A link to a spreadsheet that includes the original and final project plan>
+* 
 The original plan: https://docs.google.com/spreadsheets/d/1eR3HQicnxS8ViLmIkH72xg544pAvudNPIUVrg8txbb4/edit?usp=sharing
 
 The final plan: https://docs.google.com/spreadsheets/d/1aGdouEsXQkD_rF0C4O6q5vfOcGaLmR0eJHsEQoU4osI/edit?usp=sharing
