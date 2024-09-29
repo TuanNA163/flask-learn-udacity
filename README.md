@@ -50,7 +50,7 @@ The final plan: https://docs.google.com/spreadsheets/d/1aGdouEsXQkD_rF0C4O6q5vfO
 
 
 * Running Azure App Service from Azure Pipelines automatic deployment
-![Screen Shot 2024-09-29 at 17 16 58](https://github.com/user-attachments/assets/9420e6c5-f111-4463-a038-e55321636fed)
+![Screen Shot 2024-09-29 at 17 19 57](https://github.com/user-attachments/assets/f15b0d36-8750-4679-8bcd-2c0ce177cab1)
 
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction]([(https://github.com/TuanNA163/flask-learn-udacity/blob/main/make_predict_azure_app.sh)]).
