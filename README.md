@@ -34,10 +34,14 @@ The final plan: https://docs.google.com/spreadsheets/d/1aGdouEsXQkD_rF0C4O6q5vfO
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
 * Project running on Azure App Service
+![Screen Shot 2024-09-29 at 17 16 19](https://github.com/user-attachments/assets/79569315-b6d0-4b42-8e4c-9ff1bfd40665)
 
 * Project cloned into Azure Cloud Shell
+![Screen Shot 2024-09-29 at 17 15 49](https://github.com/user-attachments/assets/4b3e71ed-ebdf-4837-baf2-126ab23c33ca)
+
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
+![Screen Shot 2024-09-29 at 17 14 26](https://github.com/user-attachments/assets/7a0bf41f-1277-41d2-bd88-1ed1733131f5)
 
 * Output of a test run
 
@@ -46,6 +50,8 @@ The final plan: https://docs.google.com/spreadsheets/d/1aGdouEsXQkD_rF0C4O6q5vfO
 
 
 * Running Azure App Service from Azure Pipelines automatic deployment
+![Screen Shot 2024-09-29 at 17 16 58](https://github.com/user-attachments/assets/9420e6c5-f111-4463-a038-e55321636fed)
+
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction]([(https://github.com/TuanNA163/flask-learn-udacity/blob/main/make_predict_azure_app.sh)]).
 The output should look similar to this:
