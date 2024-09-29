@@ -49,7 +49,9 @@ The final plan: https://docs.google.com/spreadsheets/d/1aGdouEsXQkD_rF0C4O6q5vfO
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction]([(https://github.com/TuanNA163/flask-learn-udacity/blob/main/make_predict_azure_app.sh)]).
 The output should look similar to this:
+![Screen Shot 2024-09-29 at 17 09 35](https://github.com/user-attachments/assets/c96b7c8a-4a77-42ad-aa49-bc44665ed6dd)
 
+## Make prediction
 ```bash
 udacity@Azure:~$ ./make_predict_azure_app.sh
 Port: 443
@@ -57,7 +59,6 @@ Port: 443
 ```
 
 * Output of streamed log files from deployed application
-
 
 ## Demo 
 
