@@ -50,6 +50,7 @@ The final plan: https://docs.google.com/spreadsheets/d/1aGdouEsXQkD_rF0C4O6q5vfO
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction]([(https://github.com/TuanNA163/flask-learn-udacity/blob/main/make_predict_azure_app.sh)]).
 The output should look similar to this:
 ![Screen Shot 2024-09-29 at 17 09 35](https://github.com/user-attachments/assets/c96b7c8a-4a77-42ad-aa49-bc44665ed6dd)
+![Screen Shot 2024-09-29 at 17 10 55](https://github.com/user-attachments/assets/bb8e208b-bc34-4e08-8141-0ba86e1ba373)
 
 ## Make prediction
 ```bash
