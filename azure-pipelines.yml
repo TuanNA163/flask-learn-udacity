@@ -5,13 +5,12 @@
 
 trigger:
 - main
-- build
 
 pool: myAgentPool
 
 variables:
   # TODO: Replace the service connection name as used in the DevOps project settings
-  azureServiceConnectionId: 'myServiceConnection'
+  azureServiceConnectionId: '13eb2a6f-51a2-499c-a3f4-f3284ce563f2'
   
   # TODO: Specify the value of the existing Web App name
   webAppName: 'flask-app-tuanna163'
@@ -29,11 +28,7 @@ stages:
   - job: BuildJob
     pool: myAgentPool
     steps:    
-    - script: |
-        export PATH=$HOME/.local/bin:$PATH
-        python3 -m pip install -r requirements.txt
-      workingDirectory: $(projectRoot)
-      displayName: 'STEP 1 - Install requirement.txt'
+    
 
     - script: |
         export PATH=$HOME/.local/bin:$PATH
