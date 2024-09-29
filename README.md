@@ -37,6 +37,7 @@ The final plan: https://docs.google.com/spreadsheets/d/1aGdouEsXQkD_rF0C4O6q5vfO
 ![Screen Shot 2024-09-29 at 17 16 19](https://github.com/user-attachments/assets/79569315-b6d0-4b42-8e4c-9ff1bfd40665)
 
 * Project cloned into Azure Cloud Shell
+* 
 ![Screen Shot 2024-09-29 at 17 15 49](https://github.com/user-attachments/assets/4b3e71ed-ebdf-4837-baf2-126ab23c33ca)
 
 
