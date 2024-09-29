@@ -11,7 +11,7 @@ pool: myAgentPool
 
 variables:
   # TODO: Replace the service connection name as used in the DevOps project settings
-  azureServiceConnectionId: '077a0274-9290-4c64-be9c-d0e73a69f4dd'
+  azureServiceConnectionId: 'myServiceConnection'
   
   # TODO: Specify the value of the existing Web App name
   webAppName: 'flask-app-tuanna163'
@@ -30,11 +30,10 @@ stages:
     pool: myAgentPool
     steps:    
     - script: |
-        python3 -m pip install --upgrade pip
-        python3 -m pip install setup
+        export PATH=$HOME/.local/bin:$PATH
         python3 -m pip install -r requirements.txt
       workingDirectory: $(projectRoot)
-      displayName: 'myStep 1'
+      displayName: 'STEP 1 - Install requirement.txt'
 
     - script: |
         export PATH=$HOME/.local/bin:$PATH
