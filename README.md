@@ -8,10 +8,15 @@ both Continuous Integration and Continuous Delevery.
 Architectural Diagram
 ![Screen Shot 2024-09-29 at 16 48 16](https://github.com/user-attachments/assets/3edc738e-d80f-46f0-897f-ad68bfddc5af)
 
+Instructions for running the Python project
+A short description of how to improve the project in the future
+## Enhancement
+1. Build effective microservices
+2. Build effective alerts that are useful and actionable
+
+Screen demonstrating key steps
 
 ## Project Plan
-<TODO: Project Plan
-
 * A link to a Trello board for the project : 
 Link: https://trello.com/b/1zEYv7Jb/agile-sprint-board-for-project-2
 
@@ -36,11 +41,13 @@ The final plan: https://docs.google.com/spreadsheets/d/1aGdouEsXQkD_rF0C4O6q5vfO
 
 * Output of a test run
 
-* Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
+* Successful deploy of the project in Azure Pipelines.
+ ![Screen Shot 2024-09-29 at 16 56 51](https://github.com/user-attachments/assets/ed0089f8-0775-45c6-a55a-63afe30d8b59)
+
 
 * Running Azure App Service from Azure Pipelines automatic deployment
 
-* Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
+* Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction]([(https://github.com/TuanNA163/flask-learn-udacity/blob/main/make_predict_azure_app.sh)]).
 The output should look similar to this:
 
 ```bash
@@ -51,11 +58,6 @@ Port: 443
 
 * Output of streamed log files from deployed application
 
-> 
-
-## Enhancements
-
-<TODO: A short description of how to improve the project in the future>
 
 ## Demo 
 
